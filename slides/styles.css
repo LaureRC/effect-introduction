@@ -1,0 +1,11 @@
+html {
+  font-size: 125%;
+}
+
+li :not(.note) {
+  font-size: 130%;
+}
+
+blockquote {
+  font-size: 130% !important;
+}

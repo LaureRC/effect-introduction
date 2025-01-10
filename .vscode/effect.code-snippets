@@ -1,0 +1,12 @@
+{
+  "Gen Function $ (wrapped)": {
+    "prefix": "egg",
+    "body": ["Effect.gen(function* () {\n\t$0\n})"],
+    "description": "Generator function"
+  },
+  "Gen Yield $": {
+    "prefix": "yy",
+    "body": ["yield* $0"],
+    "description": "Yield generator"
+  }
+}
